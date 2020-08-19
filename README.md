@@ -1,5 +1,5 @@
 # deep learning 3D Point Cloud Denoising
-A paper list of 3D Noise Filter & outlier remover. 
+A paper list of 3D Noise Filter (Denoiser)
 ##
 ## 2019
 - **[PointCleanNet]** Learning to Denoise and Remove Outliers from Dense Point Clouds |[`[pdf]`](https://arxiv.org/pdf/1901.01060.pdf) [`[official code]`](https://github.com/mrakotosaon/pointcleannet) 
@@ -11,10 +11,16 @@ A paper list of 3D Noise Filter & outlier remover.
 
 
 ## 2020
-- **[NLU]** Non-local Learning Unit, Non-Local Part-Aware Point Cloud Denoising  |[`[pdf]`](https://arxiv.org/pdf/2003.06631.pdf)
-- Learning Graph-Convolutional Representations for Point Cloud Denoising |[`[pdf]`](https://arxiv.org/pdf/2007.02578.pdf)
 
-- **[GPDNet]** Learning Graph-Convolutional Representations for Point Cloud Denoising | **[ECCV' 20]**|[`[pdf]`](https://arxiv.org/pdf/2007.02578.pdf) [`[official code]`](https://github.com/diegovalsesia/GPDNet) 
+- ***March***
+  - **[NLU]** Non-local Learning Unit, Non-Local Part-Aware Point Cloud Denoising  |[`[pdf]`](https://arxiv.org/pdf/2003.06631.pdf)
 
 
-- **[Differentiable Manifold Reconstruction for Point Cloud Denoising]** | **[ACM MM' 2020]**|[`[pdf]`](https://arxiv.org/pdf/2007.13551.pdf) [`[official code]`](https://github.com/luost26/DMRDenoise) 
+- ***April***
+  - [Deep Manifold Prior] | [`[pdf]`](https://arxiv.org/pdf/2004.04242.pdf)
+
+- ***July***
+  - **[GPDNet]** Learning Graph-Convolutional Representations for Point Cloud Denoising | **[ECCV' 20]**|[`[pdf]`](https://arxiv.org/pdf/2007.02578.pdf) [`[official code]`](https://github.com/diegovalsesia/GPDNet) 
+
+- ***August***
+  - **[Differentiable Manifold Reconstruction for Point Cloud Denoising]** | **[ACM MM' 2020]**|[`[pdf]`](https://arxiv.org/pdf/2007.13551.pdf) [`[official code]`](https://github.com/luost26/DMRDenoise) 
