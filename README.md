@@ -14,7 +14,7 @@ A paper list of 3D Noise Filter & outlier remover.
 - **[NLU]** Non-local Learning Unit, Non-Local Part-Aware Point Cloud Denoising  |[`[pdf]`](https://arxiv.org/pdf/2003.06631.pdf)
 - Learning Graph-Convolutional Representations for Point Cloud Denoising |[`[pdf]`](https://arxiv.org/pdf/2007.02578.pdf)
 
-- **[GPDNet]** Learning Graph-Convolutional Representations for Point Cloud Denoising |[`[pdf]`](https://arxiv.org/pdf/2007.02578.pdf) [`[official code]`](https://github.com/diegovalsesia/GPDNet) 
+- **[GPDNet]** Learning Graph-Convolutional Representations for Point Cloud Denoising | **[ECCV' 20]**|[`[pdf]`](https://arxiv.org/pdf/2007.02578.pdf) [`[official code]`](https://github.com/diegovalsesia/GPDNet) 
 
 
-- **[Differentiable Manifold Reconstruction for Point Cloud Denoising]** |[`[pdf]`](https://arxiv.org/pdf/2007.13551.pdf) [`[official code]`](https://github.com/luost26/DMRDenoise) 
+- **[Differentiable Manifold Reconstruction for Point Cloud Denoising]** | **[ACM MM' 2020]**|[`[pdf]`](https://arxiv.org/pdf/2007.13551.pdf) [`[official code]`](https://github.com/luost26/DMRDenoise) 
