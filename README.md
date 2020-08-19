@@ -13,7 +13,7 @@ A paper list of 3D Noise Filter (Denoiser)
 ## 2020
 
 - ***March***
-  - **[NLU]** Non-local Learning Unit, Non-Local Part-Aware Point Cloud Denoising  |[`[pdf]`](https://arxiv.org/pdf/2003.06631.pdf)
+  - Non-Local Part-Aware Point Cloud Denoising  |[`[pdf]`](https://arxiv.org/pdf/2003.06631.pdf)
 
 
 - ***April***
