@@ -26,5 +26,5 @@ A paper list of 3D Noise Filter (Denoiser)
   - **[Differentiable Manifold Reconstruction for Point Cloud Denoising]** | **[ACM MM' 2020]**|[`[pdf]`](https://arxiv.org/pdf/2007.13551.pdf) [`[official code]`](https://github.com/luost26/DMRDenoise) 
 
 <p align="center">
-  <img width="1000" src="/asset/comparison_of_denoising_methods.PNG" "Visual comparison of denoising methods.">
+  <img width="1000" src="/asset/comparison_of_denoising_methods.png" "Visual comparison of denoising methods.">
 </p>
