@@ -1,6 +1,6 @@
 # deep learning 3D Point Cloud Denoising
 A paper list of 3D Noise Filter (Denoiser)
-##
+
 ## 2019
 - **[PointCleanNet]** Learning to Denoise and Remove Outliers from Dense Point Clouds |[`[pdf]`](https://arxiv.org/pdf/1901.01060.pdf) [`[official code]`](https://github.com/mrakotosaon/pointcleannet) 
 - **[DSS]** Differentiable Surface Splatting for Point-based Geometry Processing |[`[pdf]`](https://arxiv.org/pdf/1906.04173.pdf) [`[official code]`](https://github.com/yifita/DSS) 
