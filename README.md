@@ -6,7 +6,7 @@ A paper list of 3D Noise Filter & outlier remover.
 - **[DSS]** Differentiable Surface Splatting for Point-based Geometry Processing |[`[pdf]`](https://arxiv.org/pdf/1906.04173.pdf) [`[official code]`](https://github.com/yifita/DSS) 
 - **[Total Denoising]** Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning |[`[pdf]`](https://openaccess.thecvf.com/content_ICCV_2019/papers/Hermosilla_Total_Denoising_Unsupervised_Learning_of_3D_Point_Cloud_Cleaning_ICCV_2019_paper.pdf) 
 - **[guided-filter]** guided-filter-point-cloud-denoise |[`[pdf]`](http://kaiminghe.com/publications/pami12guidedfilter.pdf) [`[official code]`](https://github.com/aipiano/guided-filter-point-cloud-denoise) 
-- **[NPD]** The Neural Projection Denoising project, 3D POINT CLOUD DENOISING VIA DEEP NEURAL NETWORK BASED LOCAL SURFACEESTIMATION  |[`[pdf]`](https://arxiv.org/pdf/1904.04427.pdf)
+- **[NPD]** The Neural Projection Denoising project, 3D POINT CLOUD DENOISING VIA DEEP NEURAL NETWORK BASED LOCAL SURFACEESTIMATION  |[`[pdf]`](https://arxiv.org/pdf/1904.04427.pdf) [`[official code]`](https://github.com/chaojingduan/Neural-Projection) 
 
 
 ## 2020
