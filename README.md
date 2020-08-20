@@ -6,13 +6,13 @@ A paper list of 3D Noise Filter (Denoiser)
 - ***April***
   - **[NPD]** The Neural Projection Denoising project, 3D POINT CLOUD DENOISING VIA DEEP NEURAL NETWORK BASED LOCAL SURFACEESTIMATION  |[`[pdf]`](https://arxiv.org/pdf/1904.04427.pdf) [`[official code]`](https://github.com/chaojingduan/Neural-Projection) 
 
--***June***
+- ***June***
   - **[PointCleanNet]** Learning to Denoise and Remove Outliers from Dense Point Clouds |[`[pdf]`](https://arxiv.org/pdf/1901.01060.pdf) [`[official code]`](https://github.com/mrakotosaon/pointcleannet) 
 
--***September***
+- ***September***
   - **[DSS]** Differentiable Surface Splatting for Point-based Geometry Processing |[`[pdf]`](https://arxiv.org/pdf/1906.04173.pdf) [`[official code]`](https://github.com/yifita/DSS) 
 
--***October***
+- ***October***
   - **[Total Denoising]** Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning | **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1904.07615.pdf) [`[code]`](https://github.com/phermosilla/TotalDenoising)
     - the first unsupervised deep learning method for point cloud denoising
 
