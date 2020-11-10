@@ -49,6 +49,9 @@ _**Updated: 20-11-10**_
 - ***August***
   - **[Differentiable Manifold Reconstruction for Point Cloud Denoising]** | **[ACM MM' 2020]**|[`[pdf]`](https://arxiv.org/pdf/2007.13551.pdf) [`[official code]`](https://github.com/luost26/DMRDenoise) 
 
+- ***October***
+  - Dynamic Point Cloud Denoising via Manifold-to-Manifold Distance | [`[pdf]`](https://arxiv.org/pdf/2003.08355.pdf)
+    - Dynamic Point, not static Point
 <p align="center">
   <img width="1000" src="/assets/comparison_of_denoising_methods.png" "Visual comparison of denoising methods.">
 </p>
