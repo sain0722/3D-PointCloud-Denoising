@@ -1,5 +1,5 @@
 # 3D Point Cloud Denoising
-A paper list of 3D Point Cloud Denoising
+A paper list of *3D Point Cloud Denoising* using Deep Learning
 
 _**Updated: 20-11-10**_
 
