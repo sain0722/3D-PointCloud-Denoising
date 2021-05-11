@@ -13,14 +13,14 @@ _**Updated: 20-11-10**_
 
 ## 2019
 
-- **[2018.04]** **[NPD]** The Neural Projection Denoising project, 3D POINT CLOUD DENOISING VIA DEEP NEURAL NETWORK BASED LOCAL SURFACEESTIMATION  | [`[pdf]`](https://arxiv.org/pdf/1904.04427.pdf) [`[official code]`](https://github.com/chaojingduan/Neural-Projection) 
-- **[2018.04]** 3D Point Cloud Denoising Using Graph Laplacian Regularization of a Low Dimensional Manifold Model | [`[pdf]`](https://arxiv.org/pdf/1803.07252.pdf)
+- **[2019.04]** **[NPD]** The Neural Projection Denoising project, 3D POINT CLOUD DENOISING VIA DEEP NEURAL NETWORK BASED LOCAL SURFACEESTIMATION  | [`[pdf]`](https://arxiv.org/pdf/1904.04427.pdf) [`[official code]`](https://github.com/chaojingduan/Neural-Projection) 
+- **[2019.04]** 3D Point Cloud Denoising Using Graph Laplacian Regularization of a Low Dimensional Manifold Model | [`[pdf]`](https://arxiv.org/pdf/1803.07252.pdf)
 
-- **[2018.06]** **[PointCleanNet]** Learning to Denoise and Remove Outliers from Dense Point Clouds |[`[pdf]`](https://arxiv.org/pdf/1901.01060.pdf) [`[official code]`](https://github.com/mrakotosaon/pointcleannet) 
+- **[2019.06]** **[PointCleanNet]** Learning to Denoise and Remove Outliers from Dense Point Clouds |[`[pdf]`](https://arxiv.org/pdf/1901.01060.pdf) [`[official code]`](https://github.com/mrakotosaon/pointcleannet) 
 
-- **[2018.09]** **[DSS]** Differentiable Surface Splatting for Point-based Geometry Processing |[`[pdf]`](https://arxiv.org/pdf/1906.04173.pdf) [`[official code]`](https://github.com/yifita/DSS) 
+- **[2019.09]** **[DSS]** Differentiable Surface Splatting for Point-based Geometry Processing |[`[pdf]`](https://arxiv.org/pdf/1906.04173.pdf) [`[official code]`](https://github.com/yifita/DSS) 
 
-- **[2018.10]** **[Total Denoising]** Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning | **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1904.07615.pdf) [`[code]`](https://github.com/phermosilla/TotalDenoising)
+- **[2019.10]** **[Total Denoising]** Total Denoising: Unsupervised Learning of 3D Point Cloud Cleaning | **[ICCV' 19]** |[`[pdf]`](https://arxiv.org/pdf/1904.07615.pdf) [`[code]`](https://github.com/phermosilla/TotalDenoising)
     - the first unsupervised deep learning method for point cloud denoising
 
 
